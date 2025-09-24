@@ -18,14 +18,16 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 
-# Screenshots
+
+
 # Screenshots
 
 🏠 Home Page  
-![Home Page](./screenshot/screenshot1.png)
+![Home Page](./public/screenshot/screenshot1.png)
 
 👥 Patients Page  
-![Patients Page](./screenshots/screenshot2.png)
+![Patients Page](./public/screenshot/Screenshot2.png)
 
 ➕ Add New Patient  
-![Add Patient](./screenshots/screenshot3.png)
+![Add Patient](./public/screenshot/Screenshot3.png)
+
